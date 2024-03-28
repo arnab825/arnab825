@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Arnab Roy</h1>
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋🏻;This+is+Arnab....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
+
+
+<img  align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> 
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab825" alt="arnab825" /></a> </p>
 
+- 🔭 I’m currently working on **HTML,CSS and JS.**
 - 🌱 I’m currently learning **Python and Full Stack Web Development**
-
 - 💬 Ask me about **Java,C and SQL**
 
-<h2 align="right">
-<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> </h2>
 
 
 <h3 align="left">Connect with me:</h3>
