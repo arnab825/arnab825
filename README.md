@@ -7,6 +7,10 @@
 
 - 💬 Ask me about **Java,C and SQL**
 
+<p align="right">
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arnab5669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnab5669" height="30" width="40" /></a>
