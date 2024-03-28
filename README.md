@@ -7,8 +7,8 @@
 
 - 💬 Ask me about **Java,C and SQL**
 
-<p align="right">
-<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> </p>
+<h2 align="right">
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> </h2>
 
 
 <h3 align="left">Connect with me:</h3>
