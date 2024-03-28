@@ -1,9 +1,8 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg">
-    <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm Arnab ....;Nice+to+meet+you!&center=true&size=30">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋🏻;This+is+Arnab....;Nice+to+meet+you!&center=true&size=30">
   </a>
- </h1>
-
+</h1>
  
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <img  align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> 
