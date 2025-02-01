@@ -5,7 +5,8 @@
 </h1>
  
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img  align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> 
+<img  align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> <br /><br />
+
 
 - 🔭 I’m currently working on **HTML,CSS and JS.**
 - 🌱 I’m currently learning **Python and Full Stack Web Development**
