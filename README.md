@@ -35,6 +35,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rarnab225u"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rarnab225u" /></a></p>
+<p><a href="https://linktr.ee/ExploreWithArnab"> <img align="left" src="https://github.com/user-attachments/assets/8dafd8be-f860-42a2-9596-ecea276d3b9e" height="50" width="210" alt="rarnab225u" /></a></p>
 
 <br><br>
 
