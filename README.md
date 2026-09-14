@@ -1,11 +1,9 @@
 <div align="center">
   <a href="https://arnab-roy-portfolio.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arnab+Roy+👋;Full+Stack+Developer+💻;MCA+Scholar+@+Techno+Main+Salt+Lake+🎓;MERN+•+Java+•+Python+⚡;Building+Impactful+Web+Experiences+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arnab+Roy+👋;Full+Stack+Developer+💻;MERN+•+Java+•+Python+⚡;Building+Impactful+Web+Experiences+🚀" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <strong>Crafting responsive, performant full-stack systems and memorable user interfaces.</strong>
-  </p>
+  <h3 align="center">A passionate Full Stack Developer & Software Engineer from India</h3>
 
   <p align="center">
     <a href="https://arnab-roy-portfolio.netlify.app/" target="_blank">
@@ -23,13 +21,20 @@
   </p>
 </div>
 
+<div align="right">
+  <img alt="Coder GIF" height="240" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</div>
+
+<!-- clears the right-floated image area so following sections align properly -->
+<div style="clear: both;"></div>
+
 ---
 
 ### 💫 About Me
 
 I am a Full Stack Developer & Software Engineer based in India, blending solid engineering principles with an eye for UI and motion. I specialize in the **MERN stack**, with strong foundations in **Java**, **Python**, and **cloud databases**. I also leverage **AI-augmented workflows** for accelerated prototyping and delivery while keeping architecture human-reviewed and robust.
 
-- 🎓 **Education:** Pursuing **MCA** at **Techno Main Salt Lake, Kolkata** (2025–Present) | BCA Graduate from **Netaji Subhash Engineering College** (2022–2025)
+- 🎓 **Education:** BCA Graduate from **Netaji Subhash Engineering College (NSEC)** (2022–2025)
 - 🌟 **Achievements:** Former **Microsoft Learn Student Ambassador (Beta)** & **Hacktoberfest 2024 Contributor**
 - 🔭 **Currently Building:** Desktop control panels, full-stack web platforms, and API-driven web applications
 - 🌱 **Exploring & Refining:** Next.js, Framer Motion, micro-interactions, and distributed backend architectures
@@ -156,21 +161,14 @@ Here are a few notable projects showcasing full-stack capabilities, APIs, and GU
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnab825&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Arnab's GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=arnab825&theme=react&hide_border=false" alt="GitHub Streak" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arnab825&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Arnab's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=arnab825&theme=react&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab825&theme=react&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" height="165" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=arnab825&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnab825&theme=react&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=arnab825&theme=react&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
