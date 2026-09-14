@@ -48,8 +48,9 @@ I am a Full Stack Developer & Software Engineer based in India, blending solid e
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,fastapi,py,java,c,mysql,firebase,git,github,postman,vscode,electron" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,fastapi,py,java,c,mysql,firebase,git,github,postman,vscode,electron,docker,bun,materialui,npm,spring,vite" alt="My Tech Stack" />
   </a>
+  
 </p>
 
 | Domain | Technologies & Frameworks |
