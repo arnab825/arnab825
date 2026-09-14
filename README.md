@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://arnab-roy-portfolio.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arnab+Roy+👋;Full+Stack+Developer+💻;MERN+•+Java+•+Python+⚡;Building+Impactful+Web+Experiences+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arnab+Roy+👋;Full+Stack+Developer+💻;MERN+•+Java+•+Python+⚡;Building+Web+Experiences+🚀" alt="Typing SVG" />
   </a>
 
   <h3 align="center">A passionate Full Stack Developer & Software Engineer from India</h3>
@@ -8,9 +8,6 @@
   <p align="center">
     <a href="https://arnab-roy-portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-arnab--roy--portfolio.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://arnab-roy-portfolio.netlify.app/pdf/Arnab%20Roy%20Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-View%20PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
     <a href="https://linkedin.com/in/arnab825" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-arnab825-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +18,7 @@
   </p>
 </div>
 
-<div align="right">
+<div align="center">
   <img alt="Coder GIF" height="240" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 </div>
 
@@ -162,12 +159,12 @@ Here are a few notable projects showcasing full-stack capabilities, APIs, and GU
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=arnab825&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Arnab's GitHub Stats" />
+  <img src="https://github-readme-stats-tau-hazel.vercel.app/api?username=arnab825&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Arnab's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=arnab825&theme=react&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=arnab825&theme=react&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-tau-hazel.vercel.app/api/top-langs/?username=arnab825&theme=react&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
